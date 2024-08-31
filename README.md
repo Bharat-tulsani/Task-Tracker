@@ -33,5 +33,8 @@ Before running the project, ensure you have the following installed:
    To update the task
    node index.js update "id" "Task description"
 
+   To delete the task
+   node index.js delete "id"
+
 4. **Additional Information**
    Ensure you are in the project directory before running the commands.
