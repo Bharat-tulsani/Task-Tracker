@@ -36,5 +36,8 @@ Before running the project, ensure you have the following installed:
    To delete the task
    node index.js delete "id"
 
+   To Mark a task as in progress  
+   node index.js mark-in-progress "id"
+
 4. **Additional Information**
    Ensure you are in the project directory before running the commands.
