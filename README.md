@@ -39,5 +39,8 @@ Before running the project, ensure you have the following installed:
    To Mark a task as in progress  
    node index.js mark-in-progress "id"
 
+   To Mark a task as in done  
+   node index.js mark-done "id"
+
 4. **Additional Information**
    Ensure you are in the project directory before running the commands.
